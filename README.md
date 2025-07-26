@@ -35,12 +35,12 @@ This project explores how traffic volume correlates with environmental factors, 
 - OLS for Statistical Modelling
 
 
+## Use-Case
+If temperature or weather data can predict traffic volume reliably, city planners can optimize road maintenance schedules, adjust signal timings, or issue congestion warnings in advance.
+
 ## Requirements
 
 To run the notebook, install the following libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
-
-## Use-Case
-If temperature or weather data can predict traffic volume reliably, city planners can optimize road maintenance schedules, adjust signal timings, or issue congestion warnings in advance
